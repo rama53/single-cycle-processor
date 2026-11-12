@@ -1,0 +1,10 @@
+# Logisim backups and local state
+*.circ.bak
+*.circ~
+*.bak
+
+# Operating system and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
